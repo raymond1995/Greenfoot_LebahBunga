@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Dunia()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Dunia.\r\n\ \r\n
+comment1.params=
+comment1.target=Score\ getScore()
+comment2.params=
+comment2.target=Lives\ getLives()
+comment3.params=
+comment3.target=Waktu\ getWaktu()
+comment4.params=
+comment4.target=SplashScreen\ getSplashScreen()
+comment5.params=
+comment5.target=EndMessage\ getEndMessage()
+comment6.params=
+comment6.target=void\ prepare()
+numComments=7
